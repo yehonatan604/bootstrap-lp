@@ -5,3 +5,7 @@
 #whatsapp {
     padding: 1em;
 }
+
+#row2 {
+    direction: rtl;
+}
